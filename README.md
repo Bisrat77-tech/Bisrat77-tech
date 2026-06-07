@@ -64,12 +64,6 @@ Web and App Devlopment 💻
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisrat77-tech&theme=radical&bg_color=0d1117&hide_border=true&color=f75c7e&line=f75c7e&point=ffffff&area=true" />
 </p>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bisrat77-tech&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" /> 
-</p>
-
 <! Weekly Development -->
 ## 📊 Weekly Development Breakdown
 
